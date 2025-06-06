@@ -1,2 +1,2 @@
-# ygbikram-website
+# ygbikram_website
 My personal website 
